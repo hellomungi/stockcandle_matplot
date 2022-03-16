@@ -52,3 +52,4 @@ def chart(df)
     plt.grid()
     ## chart 이미지 저장
     plt.savefig("C:/chart.png", transparent = True, pad_inches = 0)
+```
