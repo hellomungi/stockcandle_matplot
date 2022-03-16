@@ -1,5 +1,7 @@
 # stockcandle_matplot
 
+<br>
+<img src="https://github.com/hellomungi/stockcandle_matplot/blob/main/img/chart1.JPG?raw=true" />
 
 
 ```python
@@ -52,6 +54,4 @@ def chart(df)
     plt.savefig("C:/chart.png", transparent = True, pad_inches = 0)
 ```
 
-<br>
-<img src="https://github.com/hellomungi/stockcandle_matplot/blob/main/img/chart1.JPG?raw=true" />
 
