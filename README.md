@@ -51,3 +51,7 @@ def chart(df)
     ## chart 이미지 저장
     plt.savefig("C:/chart.png", transparent = True, pad_inches = 0)
 ```
+
+<br>
+<img src="https://github.com/hellomungi/stockcandle_matplot/blob/main/img/chart1.JPG?raw=true" />
+
